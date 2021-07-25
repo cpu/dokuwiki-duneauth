@@ -1,0 +1,7 @@
+base   duneauth
+author Paradox
+email  daniel@binaryparadox.net
+date   2021-07-18
+name   duneauth plugin
+desc   Authenticate with DuneMUD AUTHD users
+url    https://dunemud.net

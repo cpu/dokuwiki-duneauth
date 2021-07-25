@@ -1,0 +1,29 @@
+# Duneauth Plugin for DokuWiki
+
+Implements a DokuWiki Auth plugin backed by the DUNE LPC AUTHD's SQLite
+database. This allows users to log into the wiki using their in-game
+credentials.
+
+## Requirements
+
+Requires PHP support for SQLite.
+
+If you're using Ubuntu 20.04 with PHP 7.4 this likely means you need to `apt-get
+install php7.4-sqlite` (don't forget to restart your webserver after you
+install it).
+
+## License
+
+----
+Copyright (C) Paradox <daniel@binaryparadox.net>
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; version 2 of the License
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+See the LICENSING file for details
